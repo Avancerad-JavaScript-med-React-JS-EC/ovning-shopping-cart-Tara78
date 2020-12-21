@@ -1,7 +1,7 @@
 import React from 'react'; 
 import Header from './header'; 
 import Product from './product'; 
-// import imgUrl from '../img/sherlock-holmes-147255_640.png'; 
+import imgUrl from '../img/sherlock-holmes-147255_640.png'; 
 import Main from './main';
 
 function App() {
