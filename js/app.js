@@ -1,7 +1,7 @@
 import React from 'react'; 
-import Header from './header'; 
-import Product from './product'; 
-
+// import Header from './header'; 
+// import Product from './product'; 
+import Main from './main';
 
 function App() {
     return(
@@ -10,9 +10,9 @@ function App() {
             <ul>
 
             </ul>
-
-            <Header />
-         <Product />
+<Main />
+            {/* <Header /> */}
+         {/* <Product /> */}
         </div>
         
     )
